@@ -6,5 +6,7 @@ ARC Integral Token (ARCI) is using ERC-20 Technology which has emerged as the te
 Think of it as "the internet currency." ARCI platform designed to help community can get better.
 
 Official Website : https://arcitoken.info/
+<br>
 Official Telegram ARCI Community : https://t.me/arcigroup
+<br>
 Official Telegram ARCI Info : https://t.me/arcitoken
